@@ -1,4 +1,6 @@
-package com.tech.exercise;
+package com.tech.exercise.beans;
+
+import com.tech.exercise.enums.StockType;
 
 import java.math.BigDecimal;
 

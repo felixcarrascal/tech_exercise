@@ -1,4 +1,4 @@
-package com.tech.exercise;
+package com.tech.exercise.enums;
 
 /**
  * Created by Félix on 16/04/2016.
